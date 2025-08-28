@@ -1,0 +1,5 @@
+{
+  "name": "Autonomous Financial Analyst Agent",
+  "description": "An application that simulates an autonomous financial analyst agent providing a real-time investment risk assessment for a portfolio using multiple specialized AI agents.",
+  "requestFramePermissions": []
+}
